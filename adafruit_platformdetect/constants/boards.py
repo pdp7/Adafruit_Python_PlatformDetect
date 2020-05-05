@@ -189,6 +189,7 @@ _BEAGLEBONE_BOARD_IDS = {
         ("A5A", "A335BNLT0A5A"),
         ("A5B", "A335BNLT0A5B"),
         ("A5C", "A335BNLT0A5C"),
+        ("B", "A335BNLT000B"
         ("A6", "A335BNLT00A6"),
         ("C", "A335BNLT000C"),
         ("C", "A335BNLT00C0"),
